@@ -27,4 +27,7 @@ In this EDA we would be trying to analyse the data shared by the client to get a
 ### Data Analysis
 
 Through the data analysis I aim to prvide insight into the sales performance of the client's business in 2014 and 2015, identity trends/patterns and make data inferenced recommendation to help improve the top-line of the business.
+
+From the data analysis this are the insights gathered;
+  A. Sales By Region
       
