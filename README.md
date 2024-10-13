@@ -5,6 +5,8 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools Used](#tools-used)
+- [Exploratory Data Analysis](#Exploratory_Data_Analysis)
+- [Data Analysis](#Data_Analysis)
 
 ### Project Overview
 ---
@@ -20,7 +22,7 @@ The data was shared in class.
    - Excel Pivot table; to summarise the data
    - Excel Charts; to depict and visualize the data.
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 ---
 In this EDA we would be trying to analyse the data shared by the client to get an insight into its business operations across the country. Hence, we would be answering questions like;
    1. What service line contributes majorly to the organisation's revenue.
