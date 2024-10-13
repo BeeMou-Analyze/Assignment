@@ -36,7 +36,8 @@ From the data analysis below are the insights gathered:
 
 2. Sales By Region;  North East contributed the most in revenue N18.6 billion (25% of total revenue), followed by south west contributing N15.8 billion (22% of total revenue) and  North Central contributed the least of just N6.4 billion Naira (8% of total revenue). This understandable given that not central has just 2 markets and 8 stores in contract to the 8 markets and 39 stores in North East we can infer that the business its probably just opening up its market in North Central.
     
-![Revenue By Region](https://github.com/user-attachments/assets/a50b7601-76c8-4385-b792-682391c53810n
+![Revenue By Region](https://github.com/user-attachments/assets/cc34ae20-b591-44ec-a8fd-6141c4f16eab)
+
 
 
 
