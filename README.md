@@ -7,6 +7,9 @@
 - [Tools Used](#tools-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Limitation](#limitations)
    
  
 ### Project Overview
@@ -95,7 +98,7 @@ Insights also shows that the business closed four store in 2015 (Kwali, Boki, Is
 ---
 ![Stores With Least Contribution to Revenue 2014_2015](https://github.com/user-attachments/assets/ef4f889a-c572-40fe-908b-d051decfc464)
 
-** 5. Relative Revenue Contribution By Store and Markets Number;** Insights from the data showed that while absolute revenue contribution YOY is most from North East, in terms of the relative/average contribution by number of stores North Central with just 2 markets and 8 stores contributed 8.9% to revenue in both years which is equivelent to N3.5m per/day in each store. While North Central with 8 and 39 markets and stores respectively contributes 25% to the total revenue and each store in the North East does relatively N2.1 million per day. This is butress By *Chart XII, XIII and XIV* below and *chart VII, VIII, IX* above that shows that over time average units sold per day by stores/markets/regions has been highest in North Central and least in North East.
+**5. Relative Revenue Contribution By Store and Markets Number;** Insights from the data showed that while absolute revenue contribution YOY is most from North East, in terms of the relative/average contribution by number of stores North Central with just 2 markets and 8 stores contributed 8.9% to revenue in both years which is equivelent to N3.5m per/day in each store. While North Central with 8 and 39 markets and stores respectively contributes 25% to the total revenue and each store in the North East does relatively N2.1 million per day. This is butress By *Chart XII, XIII and XIV* below and *chart VII, VIII, IX* above that shows that over time average units sold per day by stores/markets/regions has been highest in North Central and least in North East.
 
 *Chart XII*
 ---
@@ -108,6 +111,28 @@ Chart XIII*
 Chart XIV*
 ---
 ![Percentage Revenue Contribution By Region Relative to Store](https://github.com/user-attachments/assets/25b4f919-06fc-4f34-b87b-16275ad3e68f)
+
+###Findings
+---
+From the analaysis we can inference that;
+- The business operates in the six regions in Nigeria, in 22 markets and 132 stores in 2014 and closed four stores in 2015 due to poor performace in the prior year (i.e. it operated 128 stores in 2015).
+- The business operates in four major line of business across the country (printer sale, copier sale, Parts and Service Plan) andd 94% of its sales is made during the workday.
+- North East has the bigest operations of 8 and 39 market and stores respectively, while North Central opeartion is the smallest of  2 and 8 market and stores respectively.
+- While North East contribute the most in absolute term to revenue in relation to the the number of stores or market in each region Northe Central is the most efficient.
+- Revenue nosedived from 2015 to 2014 because Units sold halved across the regions and business lines.
+- 43 stores contribute 50% of the Bussiness revenue in both years of which 5 is from North Central (of the total 8 stores in that market) and just 9 out of the 39 stores available in North East is part of the top contributors.
+
+###Recommendations
+---
+Based on the findings I will be recommend the business management promptly action the below;
+1. Understand the reason for the nosedived in units solds (is it due to quality issues, poor marketing or customer experience etc.) and addreass it.
+2. Prform an opeartional efficiency on all markets and close stores that aren't strategically position to drive topline.
+3. Expland operation in the North East as they seem to be room for growth in that region
+
+###Limitations
+---
+Since we do not have competitors data we can infer if the challenges facing the busiiness is an industry wide issue or not.
+   
 
 
 
