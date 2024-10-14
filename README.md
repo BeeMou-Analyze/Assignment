@@ -72,8 +72,33 @@ The business operates four lines of business (printer sale, copier sale, Parts a
 ---
 ![YOY Revenue By Region](https://github.com/user-attachments/assets/c0e50ee6-f898-4d1d-bef2-1f781019a984)
 
-4. **Huge Slowdown in Units Sold;** A drill down of the data shows that while average the the units sold per store/market/region remained the same between both years,units sold havlved between 2014 and 2015 accross all the regions and business lines(See *chart VII, VIII, IX and X* below). Hence, way can say the huge fall in revenue is due to the the sharp drop in units sold.
-Insights also shows that the business closed four store in 2015 (Kwali, Boki, Isiala Ngwa South and Chibok) that were operational in 2014, however we found that this stores were contributing 0.00% to the 2014 revenue and are not the reason for the sharp drop in revenue in 2015 (see *chart XI*).
+**4. Huge Slowdown in Units Sold;** A drill down of the data shows that while the average units sold per store/market/region remained the same between both years, units sold halved between 2014 and 2015 accross all the regions and business lines(See *chart VII, VIII, IX and X* below). Hence, way can say the huge fall in revenue is due to the the sharp drop in units sold.
+Insights also shows that the business closed four store in 2015 (Kwali, Boki, Isiala Ngwa South and Chibok) that were operational in 2014, however we found that these stores were contributing 0.00% to the 2014 revenue and are not the reason for the sharp drop in revenue in 2015 (see *chart XI*).
+
+*Chart VII*
+---
+![Average Units Sold by store](https://github.com/user-attachments/assets/d839aafd-a0bb-40a0-8a06-59aed8360fde)
+
+*Chart VIII*
+---
+![Average Units Sold by store 2014](https://github.com/user-attachments/assets/6e725e2c-5e8b-4645-a898-aa63fbdd6d6e)
+
+*Chart IX*
+---
+![Average Units Sold by store 2015](https://github.com/user-attachments/assets/ba3454f8-23b7-4da3-950e-6bd89abb4174)
+
+*Chart X*
+---
+![Decline in Units Sold](https://github.com/user-attachments/assets/d42fef93-2337-4e51-84ed-720aeed266bb)
+
+*Chart XI*
+---
+![Stores With Least Contribution to Revenue 2014_2015](https://github.com/user-attachments/assets/ef4f889a-c572-40fe-908b-d051decfc464)
+
+
+
+
+
 
 
 
