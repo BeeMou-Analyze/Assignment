@@ -14,7 +14,7 @@
  
 ### Project Overview
 ---
-The essense of this assignment is to undersatnd the data of the bussiness shared and give insights into the business operations and areas the business can improve its operations.
+The essence of this assignment is to understand the data of the business shared and give insights into the business operations and areas the company can improve its operations.
 
 ### Data Source
 ---
@@ -22,28 +22,32 @@ The data was shared in class.
 
 ### Tools Used
 ---
-   - Excel basic functions; to clean the data
-   - Excel Pivot table; to summarise the data
-   - Excel Charts; to depict and visualize the data.
+   - Excel basic functions; to clean the data.
+   - Excel Pivot table; to summarise the data.
+   - Excel Charts; to depict and visualise the data
+
 
 ### Exploratory Data Analysis
 ---
-In this EDA we would be trying to analyse the data shared by the client to get an insight into its business operations across the country. Hence, we would be answering questions like;
-   1. What service line contributes majorly to the organisation's revenue.
-   2. What Region contributes the most to the organisation's business.
-   3. How as the business been performing over 2014 to 2015.
-   4. How many stores does the business have in each market/region.
-   5. E. What is the Average contribution per store/market etc.
-   Through our understanding of this questions we hope to give the client insight on areas of forcus to enhance the business operations and improve its topline (revenue).
+In this EDA we would be trying to analyze the data shared by the client to get an insight into its business operations across the country. Hence, we would be answering questions like;
+1.	What service line contributes majorly to the organisation’s revenue?
+2.	What Region contributes the most to the organisation's business?
+3.	How has the business been performing from 2014 to 2015?
+4.	How many stores does the business have in each market/region?
+5.	What is the Average contribution per store/market etc.?
+ 
+ Through our understanding of these questions, we hope to give the client insight into areas of focus to enhance the business operations and improve its topline (revenue).
+
 
 ### Data Analysis
 ---
-Through the data analysis I aim to prvide insight into the sales performance of the client's business in 2014 and 2015, identity trends/patterns and make data inferenced recommendation to help improve the top-line of the business.
+Through the data analysis, I aim to provide insight into the sales performance of the client's business in 2014 and 2015, identify trends/patterns and make data-driven recommendations to help improve the top line of the business.
 
 From the data analysis below are the insights gathered:
 
-**1. Business Model;** The business operates in all the six regions of the country and has the most market and stores in North east (8 and 39 respectively) and the least in the North central (2 and 8 reapectively) as depicted in *Chart I*.
-The business operates four lines of business (printer sale, copier sale, Parts and Service Plan) across all its stores with Service plan contributin the bust to revenue year-on -year (see *chart II*). The business operates on all day throught out the year but 94% of its sales are made during work day as illustrated by *chart III*.
+**1. Business Model;** The business operates in all six regions of the country and has the most markets and stores in the North-East (8 and 39 respectively) and the least in the North-Central (2 and 8 respectively) as depicted in *Chart I*. 
+
+The business operates four lines of business (printer sale, copier sale, Parts, and Service Plan) across all its stores with the Service plan contributing the bust to revenue year-on-year (see *chart II*). The business operates on all days of the year but 94% of its sales are made during workdays as illustrated by *chart III*.
 
 *Chart I*
 ---
@@ -59,13 +63,13 @@ The business operates four lines of business (printer sale, copier sale, Parts a
 
 
 
-**2. Sales By Region;** North East contributed the most in revenue N18.6 billion (25% of total revenue), followed by south west contributing N15.8 billion (22% of total revenue) and  North Central contributed the least of just N6.4 billion Naira (8% of total revenue) as seen in *chart IV below*. This understandable given that not central has just 2 markets and 8 stores in contract to the 8 markets and 39 stores in North East we can infer that the business its probably just opening up its market in North Central.
+**2. Sales By Region;** North-East contributed the most in revenue N18.6 billion (25% of total revenue), followed by South-West contributing N15.8 billion (22% of total revenue) and North Central contributed the least of just N6.4 billion Naira (8% of total revenue) as seen in chart IV below. This is understandable given that North Central has just 2 markets and 8 stores in contrast with the 8 markets and 39 stores in North-East we can infer that the business is probably just opening up its market in North-Central.
 
 *Chart IV*
 ---
 ![Revenue By Region](https://github.com/user-attachments/assets/cc34ae20-b591-44ec-a8fd-6141c4f16eab)
 
-**3. Decline in Sales;** Further analysis however showed that the business revenue fell sharply year on year by 100% (from gross revenue in 2014 N48.4 bilion to 24.5 billion 2015) across all region and business lines as butress in *chart V and VI* below.
+**3. Decline in Sales;** Further analysis however showed that the business revenue fell sharply year on year by 100% (from revenue of N48.4 billion in 2014 to 24.5 billion in 2015) across all region and business lines as shown in charts V and VI below.
 
 *Chart V*
 ---
@@ -75,8 +79,9 @@ The business operates four lines of business (printer sale, copier sale, Parts a
 ---
 ![YOY Revenue By Region](https://github.com/user-attachments/assets/c0e50ee6-f898-4d1d-bef2-1f781019a984)
 
-**4. Huge Slowdown in Units Sold;** A drill down of the data shows that while the average units sold per store/market/region remained the same between both years, units sold halved between 2014 and 2015 accross all the regions and business lines(See *chart VII, VIII, IX and X* below). Hence, way can say the huge fall in revenue is due to the the sharp drop in units sold.
-Insights also shows that the business closed four store in 2015 (Kwali, Boki, Isiala Ngwa South and Chibok) that were operational in 2014, however we found that these stores were contributing 0.00% to the 2014 revenue and are not the reason for the sharp drop in revenue in 2015 (see *chart XI*).
+**4. Huge Slowdown in Units Sold;** A drill down of the data shows that while the average units sold per store/market/region remained the same between both years, units sold halved between 2014 and 2015 across all the regions and business lines (see *chart VII, VIII, IX and X* below).
+
+Hence, we can say the huge fall in revenue is due to the sharp drop in units sold. Insights also show that the business closed four stores in 2015 (Kwali, Boki, Isiala Ngwa South and Chibok) that were operational in 2014. However, we found that these stores were contributing 0.00% to the 2014 revenue and are not the reason for the sharp drop in revenue in 2015 (see *chart XI*).
 
 *Chart VII*
 ---
@@ -98,9 +103,10 @@ Insights also shows that the business closed four store in 2015 (Kwali, Boki, Is
 ---
 ![Stores With Least Contribution to Revenue 2014_2015](https://github.com/user-attachments/assets/ef4f889a-c572-40fe-908b-d051decfc464)
 
-**5. Relative Revenue Contribution By Store and Markets Number;** Insights from the data showed that while absolute revenue contribution YOY is most from North East, in terms of the relative/average contribution by number of stores North Central with just 2 markets and 8 stores contributed 8.9% to revenue in both years which is equivelent to N3.5m per/day in each store. While North Central with 8 and 39 markets and stores respectively contributes 25% to the total revenue and each store in the North East does relatively N2.1 million per day. This is butress By *Chart XII, XIII and XIV* below and *chart VII, VIII, IX* above that shows that over time average units sold per day by stores/markets/regions has been highest in North Central and least in North East.
+**5. Relative Revenue Contribution By Store and Markets Number;** Insights from the data showed that while absolute revenue contribution YOY is most from North East, in terms of the relative/average contribution by the number of stores North Central with just 2 markets and 8 stores contributed 8.9% to revenue in both years which is equivalent to N3.5m per/day in each store. 
 
-*Chart XII*
+While North Central with 8 and 39 markets and stores respectively contributes 25% to the total revenue and each store does relatively N2.1 million per day. This is buttressed by *Charts XII, XIII and XIV* below and *Charts VII, VIII, and IX* above which show that over time average units sold per day by stores/markets/regions have been highest in North Central and least in North East.
+
 ---
 ![Percentage Revenue Contribution By Store](https://github.com/user-attachments/assets/f5df35e5-5ccc-45eb-b948-f90c89da2e34)
 
