@@ -5,8 +5,9 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools Used](#tools-used)
-- [Exploratory Data Analysis](#exploratory_data_analysis)
-- [Data Analysis](#data_analysis)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+   -[Business Model](#business-model)
 
 ### Project Overview
 ---
@@ -38,8 +39,9 @@ Through the data analysis I aim to prvide insight into the sales performance of 
 
 From the data analysis below are the insights gathered:
 
-1. Business Model; the business operates in all the six regions of the country and has the most market and stores in North east (8 and 39 respectively) and the least in the North central (2 and 8 reapectively).
-   The business operates four lines of business (printer sale, copier sale, Parts and Service Plan) across all its stores with Service plan contributin the bust to revenue year-on -year. The business operates on all day throught out the year but 94% of its sales are made during work days.
+1. Business Model
+The business operates in all the six regions of the country and has the most market and stores in North east (8 and 39 respectively) and the least in the North central (2 and 8 reapectively).
+The business operates four lines of business (printer sale, copier sale, Parts and Service Plan) across all its stores with Service plan contributin the bust to revenue year-on -year. The business operates on all day throught out the year but 94% of its sales are made during work days.
 
 Chart 1
 ---
