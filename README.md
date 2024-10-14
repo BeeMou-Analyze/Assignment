@@ -63,13 +63,13 @@ The business operates four lines of business (printer sale, copier sale, Parts, 
 
 
 
-**2. Sales By Region;** North-East contributed the most in revenue N18.6 billion (25% of total revenue), followed by South-West contributing N15.8 billion (22% of total revenue) and North Central contributed the least of just N6.4 billion Naira (8% of total revenue) as seen in chart IV below. This is understandable given that North Central has just 2 markets and 8 stores in contrast with the 8 markets and 39 stores in North-East we can infer that the business is probably just opening up its market in North-Central.
+**2. Sales By Region;** North-East contributed the most in revenue N18.6 billion (25% of total revenue), followed by South-West contributing N15.8 billion (22% of total revenue) and North Central contributed the least of just N6.4 billion Naira (8% of total revenue) as seen in *chart IV* below. This is understandable given that North Central has just 2 markets and 8 stores in contrast with the 8 markets and 39 stores in North-East we can infer that the business is probably just opening up its market in North-Central.
 
 *Chart IV*
 ---
 ![Revenue By Region](https://github.com/user-attachments/assets/cc34ae20-b591-44ec-a8fd-6141c4f16eab)
 
-**3. Decline in Sales;** Further analysis however showed that the business revenue fell sharply year on year by 100% (from revenue of N48.4 billion in 2014 to 24.5 billion in 2015) across all region and business lines as shown in charts V and VI below.
+**3. Decline in Sales;** Further analysis however showed that the business revenue fell sharply year on year by 100% (from revenue of N48.4 billion in 2014 to 24.5 billion in 2015) across all region and business lines as shown in *charts V and VI* below.
 
 *Chart V*
 ---
@@ -103,9 +103,9 @@ Hence, we can say the huge fall in revenue is due to the sharp drop in units sol
 ---
 ![Stores With Least Contribution to Revenue 2014_2015](https://github.com/user-attachments/assets/ef4f889a-c572-40fe-908b-d051decfc464)
 
-**5. Relative Revenue Contribution By Store and Markets Number;** Insights from the data showed that while absolute revenue contribution YOY is most from North East, in terms of the relative/average contribution by the number of stores North Central with just 2 markets and 8 stores contributed 8.9% to revenue in both years which is equivalent to N3.5m per/day in each store. 
+**5. Relative Revenue Contribution By Store and Markets Number;** Insights from the data showed that while absolute revenue contribution YOY is most from North East, in terms of the relative/average contribution by the number of stores North-Central with just 2 markets and 8 stores contributed 8.9% to revenue in both years which is equivalent to N3.5m per/day in each store. 
 
-While North Central with 8 and 39 markets and stores respectively contributes 25% to the total revenue and each store does relatively N2.1 million per day. This is buttressed by *Charts XII, XIII and XIV* below and *Charts VII, VIII, and IX* above which show that over time average units sold per day by stores/markets/regions have been highest in North Central and least in North East.
+While North-Central with 8 and 39 markets and stores respectively contributes 25% to the total revenue and each store does relatively N2.1 million per day. This is buttressed by *Charts XII, XIII and XIV* below and *Charts VII, VIII, and IX* above which show that over time average units sold per day by stores/markets/regions have been highest in North Central and least in North East.
 
 ---
 ![Percentage Revenue Contribution By Store](https://github.com/user-attachments/assets/f5df35e5-5ccc-45eb-b948-f90c89da2e34)
@@ -120,26 +120,29 @@ Chart XIV*
 
 ### Findings
 ---
-From the analaysis we can inference that;
-- The business operates in the six regions in Nigeria, in 22 markets and 132 stores in 2014 and closed four stores in 2015 due to poor performace in the prior year (i.e. it operated 128 stores in 2015).
-- The business operates in four major line of business across the country (printer sale, copier sale, Parts and Service Plan) andd 94% of its sales is made during the workday.
-- North East has the bigest operations of 8 and 39 market and stores respectively, while North Central opeartion is the smallest of  2 and 8 market and stores respectively.
-- While North East contribute the most in absolute term to revenue in relation to the the number of stores or market in each region Northe Central is the most efficient.
+From the analysis, I can infer that;
+
+- The business operates in six regions in Nigeria, in 22 markets and 132 stores in 2014 and closed four stores in 2015 due to poor performance in the prior year (i.e., it operated 128 stores in 2015).
+- The business operates in four major lines of business across the country (printer sale, copier sale, Parts and Service Plan) and 94% of its sales are made during the workday.
+- North-East has the biggest operations of 8 and 39 markets and stores respectively, while North-Central operation is the smallest of 2 and 8 markets and stores respectively.
+- While North-East contributes the most in absolute terms to revenue in relation to the number of stores or markets in each region North-Central is the most efficient.
 - Revenue nosedived from 2015 to 2014 because Units sold halved across the regions and business lines.
-- 43 stores contribute 50% of the Bussiness revenue in both years of which 5 is from North Central (of the total 8 stores in that market) and just 9 out of the 39 stores available in North East is part of the top contributors.
+- 43 stores contributed 50% of the business revenue in both years of which 5 are from North-Central (of the total 8 stores in that market) and just 9 out of the 39 stores available in North-East are part of the top contributors.
 
 ### Recommendations
 ---
-Based on the findings I will be recommend the business management promptly action the below;
-1. Understand the reason for the nosedived in units solds (is it due to quality issues, poor marketing or customer experience etc.) and addreass it.
-2. Prform an opeartional efficiency on all markets and close stores that aren't strategically position to drive topline.
-3. Expland operation in the North East as they seem to be room for growth in that region
+Based on the findings I will recommend the business management promptly action the below;
+1.	Understand the reason for the nosedive in units sold (is it due to quality issues, poor marketing, or poor customer experience etc.) and address it.
+2.	Perform operational efficiency review on all markets and close stores that aren't strategically positioned to drive topline.
+3.	Expand operation in the North-East as there seems to be room for growth in that region.
+
 
 ### Limitations
 ---
-Since we do not have competitors data we can infer if the challenges facing the busiiness is an industry wide issue or not. 
-We also do not have complete data on pricing and more years of operation.
-   
+Since I do not have competitors' data I cannot infer if the challenges facing the business are an industry-wide challenge or due to internal bottleneck. 
+
+I also do not have complete data on pricing and historical data for the business.
+
 
 
 
