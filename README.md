@@ -39,7 +39,7 @@ Through the data analysis I aim to prvide insight into the sales performance of 
 
 From the data analysis below are the insights gathered:
 
-1. **Business Model;** The business operates in all the six regions of the country and has the most market and stores in North east (8 and 39 respectively) and the least in the North central (2 and 8 reapectively) as depicted in *Chart I*.
+**1. Business Model;** The business operates in all the six regions of the country and has the most market and stores in North east (8 and 39 respectively) and the least in the North central (2 and 8 reapectively) as depicted in *Chart I*.
 The business operates four lines of business (printer sale, copier sale, Parts and Service Plan) across all its stores with Service plan contributin the bust to revenue year-on -year (see *chart II*). The business operates on all day throught out the year but 94% of its sales are made during work day as illustrated by *chart III*.
 
 *Chart I*
@@ -56,13 +56,13 @@ The business operates four lines of business (printer sale, copier sale, Parts a
 
 
 
-2. **Sales By Region;** North East contributed the most in revenue N18.6 billion (25% of total revenue), followed by south west contributing N15.8 billion (22% of total revenue) and  North Central contributed the least of just N6.4 billion Naira (8% of total revenue) as seen in *chart IV below*. This understandable given that not central has just 2 markets and 8 stores in contract to the 8 markets and 39 stores in North East we can infer that the business its probably just opening up its market in North Central.
+**2. Sales By Region;** North East contributed the most in revenue N18.6 billion (25% of total revenue), followed by south west contributing N15.8 billion (22% of total revenue) and  North Central contributed the least of just N6.4 billion Naira (8% of total revenue) as seen in *chart IV below*. This understandable given that not central has just 2 markets and 8 stores in contract to the 8 markets and 39 stores in North East we can infer that the business its probably just opening up its market in North Central.
 
 *Chart IV*
 ---
 ![Revenue By Region](https://github.com/user-attachments/assets/cc34ae20-b591-44ec-a8fd-6141c4f16eab)
 
-3. **Decline in Sales;** Further analysis however showed that the business revenue fell sharply year on year by 100% (from gross revenue in 2014 N48.4 bilion to 24.5 billion 2015) across all region and business lines as butress in *chart V and VI* below.
+**3. Decline in Sales;** Further analysis however showed that the business revenue fell sharply year on year by 100% (from gross revenue in 2014 N48.4 bilion to 24.5 billion 2015) across all region and business lines as butress in *chart V and VI* below.
 
 *Chart V*
 ---
@@ -94,6 +94,21 @@ Insights also shows that the business closed four store in 2015 (Kwali, Boki, Is
 *Chart XI*
 ---
 ![Stores With Least Contribution to Revenue 2014_2015](https://github.com/user-attachments/assets/ef4f889a-c572-40fe-908b-d051decfc464)
+
+** 5. Relative Revenue Contribution By Store and Markets Number;** Insights from the data showed that while absolute revenue contribution YOY is most from North East, in terms of the relative/average contribution by number of stores North Central with just 2 markets and 8 stores contributed 8.9% to revenue in both years which is equivelent to N3.5m per/day in each store. While North Central with 8 and 39 markets and stores respectively contributes 25% to the total revenue and each store in the North East does relatively N2.1 million per day. This is butress By *Chart XII, XIII and XIV* below and *chart VII, VIII, IX* above that shows that over time average units sold per day by stores/markets/regions has been highest in North Central and least in North East.
+
+*Chart XII*
+---
+![Percentage Revenue Contribution By Store](https://github.com/user-attachments/assets/f5df35e5-5ccc-45eb-b948-f90c89da2e34)
+
+Chart XIII*
+---
+![Sum and Average Revenue By Region](https://github.com/user-attachments/assets/72f0e32a-5469-4143-b7b6-9ed25e129c1d)
+
+Chart XIV*
+---
+![Percentage Revenue Contribution By Region Relative to Store](https://github.com/user-attachments/assets/25b4f919-06fc-4f34-b87b-16275ad3e68f)
+
 
 
 
