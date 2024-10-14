@@ -7,9 +7,8 @@
 - [Tools Used](#tools-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-
-     -[Business Model](#business-model)
-
+   -[1. Business Model](#1.-business-model)
+ 
 ### Project Overview
 ---
 The essense of this assignment is to undersatnd the data of the bussiness shared and give insights into the business operations and areas the business can improve its operations.
