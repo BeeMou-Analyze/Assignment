@@ -73,7 +73,7 @@ The business operates four lines of business (printer sale, copier sale, Parts a
 ![YOY Revenue By Region](https://github.com/user-attachments/assets/c0e50ee6-f898-4d1d-bef2-1f781019a984)
 
 4. **Huge Slowdown in Units Sold;** A drill down of the data shows that while average the the units sold per store/market/region remained the same between both years,units sold havlved between 2014 and 2015 accross all the regions and business lines(See *chart VII, VIII, IX and X* below). Hence, way can say the huge fall in revenue is due to the the sharp drop in units sold.
-Insights also shows that the business closed four store in 2015 (Kwali, Boki,Isiala Ngwa South,Chibok) that were operational in 2014, however we found that this stores were contributing 0.00% to the 2014 revenue and are not the reason for the sharp drop in revenue in 2015 (see *chart XI).
+Insights also shows that the business closed four store in 2015 (Kwali, Boki, Isiala Ngwa South and Chibok) that were operational in 2014, however we found that this stores were contributing 0.00% to the 2014 revenue and are not the reason for the sharp drop in revenue in 2015 (see *chart XI*).
 
 
 
