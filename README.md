@@ -7,7 +7,7 @@
 - [Tools Used](#tools-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-   -[Business Model](#business-model)
+--[Business Model](#business-model)
 
 ### Project Overview
 ---
