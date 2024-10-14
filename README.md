@@ -9,7 +9,7 @@
 - [Data Analysis](#data-analysis)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
-- [Limitation](#limitations)
+- [Limitations](#limitations)
    
  
 ### Project Overview
@@ -112,7 +112,7 @@ Chart XIV*
 ---
 ![Percentage Revenue Contribution By Region Relative to Store](https://github.com/user-attachments/assets/25b4f919-06fc-4f34-b87b-16275ad3e68f)
 
-###Findings
+### Findings
 ---
 From the analaysis we can inference that;
 - The business operates in the six regions in Nigeria, in 22 markets and 132 stores in 2014 and closed four stores in 2015 due to poor performace in the prior year (i.e. it operated 128 stores in 2015).
@@ -122,16 +122,17 @@ From the analaysis we can inference that;
 - Revenue nosedived from 2015 to 2014 because Units sold halved across the regions and business lines.
 - 43 stores contribute 50% of the Bussiness revenue in both years of which 5 is from North Central (of the total 8 stores in that market) and just 9 out of the 39 stores available in North East is part of the top contributors.
 
-###Recommendations
+### Recommendations
 ---
 Based on the findings I will be recommend the business management promptly action the below;
 1. Understand the reason for the nosedived in units solds (is it due to quality issues, poor marketing or customer experience etc.) and addreass it.
 2. Prform an opeartional efficiency on all markets and close stores that aren't strategically position to drive topline.
 3. Expland operation in the North East as they seem to be room for growth in that region
 
-###Limitations
+### Limitations
 ---
-Since we do not have competitors data we can infer if the challenges facing the busiiness is an industry wide issue or not.
+Since we do not have competitors data we can infer if the challenges facing the busiiness is an industry wide issue or not. 
+We also do not have complete data on pricing and more years of operation.
    
 
 
