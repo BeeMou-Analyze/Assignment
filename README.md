@@ -18,7 +18,7 @@ The essence of this assignment is to understand the data of the business shared 
 
 ### Data Source
 ---
-The data was shared in class.
+The data was shared in class. Click [here](https://github.com/BeeMou-Analyze/Skillharvest-Assignment-13_10_24/blob/main/Assignment01_13_10_24.xlsx) to download it.
 
 ### Tools Used
 ---
